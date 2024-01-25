@@ -430,7 +430,7 @@ footer {
 footer p {
   text-align: center;
 }
-/* Add this section in your existing CSS */
+
 
 /* Skills Bar */
 .skills-container {
@@ -455,7 +455,6 @@ footer p {
   border-radius: 5px;
 }
 
-/* You can customize the color of the skill bar based on skill level */
 .skill-bar {
-  background-color: #4caf50; /* Green color for a positive skill level */
+  background-color: #4caf50; 
 }
